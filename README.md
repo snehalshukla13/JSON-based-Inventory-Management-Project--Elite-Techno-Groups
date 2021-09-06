@@ -1,2 +1,2 @@
 # JSON-based-Inventory Management-Project--Elite-Techno-Groups
--[Readme.md](https://github.com/snehalshukla13/JSON-based-Inventory-Management-Project--Elite-Techno-Groups/files/7115359/Readme.md)
+## This is a JSON based Inventory Management Project which helps us perform tasks such as showing inventory, selecting and buying from the inventory, getting an updated list of inventory and a generated bill etc. It lets us access the system both as a customer or as a shopkeeper depending on the work we are doing. As a customer, we can look at the number of items in the inventory and purchase them whereas a shopkeeper we can look at the inventory, update it, as well as look at the total number of billing records we’ve had and the sales we’ve made corresponding to that.
